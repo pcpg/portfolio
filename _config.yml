@@ -1,10 +1,12 @@
 title: 日々の図言うB
-author: GitHub User: pcpg
+author: pcpg
 email: pinguim_pinguim__atmark__zoho__dot__com
 description: > # this means to ignore newlines until "show_exerpts:"
   Sou ex-aluno de Universidade do Minho. Estou a viver em Portugal.
   Gosto de ouvir sonolidade de português.
 show_excerpts: false # set to true to show excerpts on the homepage
+
+baseurl: "http://pcpg.github.io/portfolio"
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -53,6 +55,4 @@ kramdown:
 
 #github : [metadata]
 #repository: pcpg/portfolio 
-
 # Site settings
-baseurl: "http://pcpg.github.io/portfolio"
