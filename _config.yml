@@ -50,3 +50,6 @@ plugins:
 
 kramdown:
   hard_wrap: true
+
+github : [metadata]
+repository: pcpg/portfolio 
