@@ -51,5 +51,8 @@ plugins:
 kramdown:
   hard_wrap: true
 
-github : [metadata]
-repository: pcpg/portfolio 
+#github : [metadata]
+#repository: pcpg/portfolio 
+
+# Site settings
+baseurl: "http://pcpg.github.io/portfolio"
