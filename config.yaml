@@ -1,0 +1,14 @@
+baseURL: http://example.org/
+disablePathToLower: true
+languageCode: en-us
+title:  ttest_titleB
+params:
+params:
+  AuthorName: Jon Doe
+  GitHubUser: spf13
+  ListOfFoo:
+  - foo1
+  - foo2
+  SidebarRecentLimit: 5
+  tagline: this is awsome tagline!
+  title: This is Title!
