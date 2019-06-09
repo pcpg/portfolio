@@ -1,11 +1,10 @@
-baseURL: https://pcpg.github.io/
+baseURL: https://pcpg.github.io/portfolio/
 disablePathToLower: true
-languageCode: en-us
-title:  this is title, main!
-params:
+languageCode: ja
+title:  This is title of 18806
 params:
   AuthorName: ivain
   GitHubUser: pcpg
   SidebarRecentLimit: 5
   tagline: this is awsome tagline!
-  title: This is Title!
+  title: This is Title of 18805
