@@ -2,6 +2,9 @@ baseURL: https://pcpg.github.io/portfolio/
 disablePathToLower: true
 languageCode: ja
 title:  This is title of 18806
+publishDir: docs
+canonifyurls: true
+theme: lanyon-hugo
 params:
   AuthorName: ivain
   GitHubUser: pcpg
