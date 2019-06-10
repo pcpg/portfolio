@@ -1,15 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>This is title of 18806 </title>
+    <title>portfolio, ivain 2019 </title>
     <link>https://pcpg.github.io/portfolio/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2019</rights>
-    <updated>2019-06-10 10:16:47 &#43;0100 BST</updated>
+    <updated>2019-06-10 11:48:04 &#43;0100 BST</updated>
 
     
       
     
+      
+    
+      
+        <item>
+          <title>intro of all</title>
+          <link>https://pcpg.github.io/portfolio/post/intro/</link>
+          <pubDate>Mon, 10 Jun 2019 11:48:04 BST</pubDate>
+          <author></author>
+          <guid>https://pcpg.github.io/portfolio/post/intro/</guid>
+          <description>&lt;p&gt;Este é a minha cabeça&amp;hellip;
+&lt;img src=&#34;https://pcpg.github.io/portfolio/i/18458-ttl2.png&#34; alt=&#34;代替テキスト&#34; /&gt;&lt;/p&gt;
+</description>
+        </item>
       
     
       
@@ -21,18 +34,6 @@
           <guid>https://pcpg.github.io/portfolio/post/hello/</guid>
           <description>&lt;p&gt;this is a test.
 hello,roberto!&lt;/p&gt;
-</description>
-        </item>
-      
-    
-      
-        <item>
-          <title>this is a title of a world</title>
-          <link>https://pcpg.github.io/portfolio/post/world/</link>
-          <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-          <author></author>
-          <guid>https://pcpg.github.io/portfolio/post/world/</guid>
-          <description>&lt;p&gt;this is a world&lt;/p&gt;
 </description>
         </item>
       

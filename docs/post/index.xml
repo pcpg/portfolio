@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on This is title of 18806</title>
+    <title>Posts on portfolio, ivain 2019</title>
     <link>https://pcpg.github.io/portfolio/post/</link>
-    <description>Recent content in Posts on This is title of 18806</description>
+    <description>Recent content in Posts on portfolio, ivain 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Jun 2019 10:16:47 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 11:48:04 +0100</lastBuildDate>
     
 	<atom:link href="https://pcpg.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>intro of all</title>
+      <link>https://pcpg.github.io/portfolio/post/intro/</link>
+      <pubDate>Mon, 10 Jun 2019 11:48:04 +0100</pubDate>
+      
+      <guid>https://pcpg.github.io/portfolio/post/intro/</guid>
+      <description>Este é a minha cabeça&amp;hellip; </description>
+    </item>
     
     <item>
       <title>Hello</title>
@@ -18,15 +27,6 @@
       
       <guid>https://pcpg.github.io/portfolio/post/hello/</guid>
       <description>this is a test. hello,roberto!</description>
-    </item>
-    
-    <item>
-      <title>this is a title of a world</title>
-      <link>https://pcpg.github.io/portfolio/post/world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pcpg.github.io/portfolio/post/world/</guid>
-      <description>this is a world</description>
     </item>
     
   </channel>
